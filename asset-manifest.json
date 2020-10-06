@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DogBreedZ/static/css/main.336d90dc.chunk.css",
+    "main.js": "/DogBreedZ/static/js/main.06d88d07.chunk.js",
+    "main.js.map": "/DogBreedZ/static/js/main.06d88d07.chunk.js.map",
+    "runtime-main.js": "/DogBreedZ/static/js/runtime-main.de5bef96.js",
+    "runtime-main.js.map": "/DogBreedZ/static/js/runtime-main.de5bef96.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/DogBreedZ/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b2df12b0.chunk.js": "/DogBreedZ/static/js/2.b2df12b0.chunk.js",
+    "static/js/2.b2df12b0.chunk.js.map": "/DogBreedZ/static/js/2.b2df12b0.chunk.js.map",
+    "index.html": "/DogBreedZ/index.html",
+    "precache-manifest.fb5a9b9817eb372e85a852d2fca5b482.js": "/DogBreedZ/precache-manifest.fb5a9b9817eb372e85a852d2fca5b482.js",
+    "service-worker.js": "/DogBreedZ/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/DogBreedZ/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.336d90dc.chunk.css.map": "/DogBreedZ/static/css/main.336d90dc.chunk.css.map",
+    "static/js/2.b2df12b0.chunk.js.LICENSE.txt": "/DogBreedZ/static/js/2.b2df12b0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DogBreedZ/static/media/CARTOON FREE.cbf65b6f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5bef96.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b2df12b0.chunk.js",
+    "static/css/main.336d90dc.chunk.css",
+    "static/js/main.06d88d07.chunk.js"
+  ]
+}
