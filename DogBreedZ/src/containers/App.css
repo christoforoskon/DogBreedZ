@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'CARTOON FREE Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('CARTOON FREE Regular'), url('CARTOON FREE.woff') format('woff');
+  }
+
+  h1 {
+    font-family: "CARTOON FREE Regular";
+    color: rgb(245, 222, 174);
+  }
